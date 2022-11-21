@@ -26,7 +26,7 @@ a:hover {
   color: hsl(178, 100%, 50%);
   transition: all 0.3s ease;
 }
-h2 {
+h1 {
   margin: 20px 0;
 }
 .card {
@@ -132,4 +132,7 @@ img {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+.attribution a:hover {
+  color: hsl(178, 100%, 50%);
 }
